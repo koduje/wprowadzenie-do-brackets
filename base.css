@@ -1,0 +1,19 @@
+body {
+  background: #696e9e;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  font-family: 'Bebas neue';
+  margin: 0;
+}
+
+*::selection {
+  background: transparent;
+}
